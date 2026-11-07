@@ -1,0 +1,23 @@
+[17:02:24 cuda0] start nomixup_seed0
+[17:03:12 cuda0] nomixup_seed0 epoch 1/5: train loss 0.179, train acc 0.941, val acc 0.8594 (47 s, 423 img/s)
+[17:03:58 cuda0] nomixup_seed0 epoch 2/5: train loss 0.164, train acc 0.946, val acc 0.8754 (46 s, 435 img/s)
+[17:04:43 cuda0] nomixup_seed0 epoch 3/5: train loss 0.138, train acc 0.956, val acc 0.8812 (44 s, 450 img/s)
+[17:05:28 cuda0] nomixup_seed0 epoch 4/5: train loss 0.115, train acc 0.963, val acc 0.8846 (45 s, 444 img/s)
+[17:06:12 cuda0] nomixup_seed0 epoch 5/5: train loss 0.107, train acc 0.967, val acc 0.8848 (44 s, 451 img/s)
+[17:07:54 cuda0] done nomixup_seed0 in 5.5 min
+[17:07:54 cuda0] start base_seed1
+[17:09:34 cuda0] done base_seed1 in 1.7 min
+[17:09:34 cuda0] start mixup_seed1
+[17:10:18 cuda0] mixup_seed1 epoch 1/5: train loss 0.862, train acc 0.799, val acc 0.8522 (43 s, 464 img/s)
+[17:11:01 cuda0] mixup_seed1 epoch 2/5: train loss 0.716, train acc 0.825, val acc 0.8740 (43 s, 464 img/s)
+[17:11:44 cuda0] mixup_seed1 epoch 3/5: train loss 0.712, train acc 0.830, val acc 0.8756 (43 s, 464 img/s)
+[17:12:27 cuda0] mixup_seed1 epoch 4/5: train loss 0.688, train acc 0.837, val acc 0.8804 (43 s, 465 img/s)
+[17:13:10 cuda0] mixup_seed1 epoch 5/5: train loss 0.617, train acc 0.854, val acc 0.8786 (43 s, 466 img/s)
+[17:14:49 cuda0] done mixup_seed1 in 5.2 min
+[17:14:49 cuda0] start nomixup_seed2
+[17:15:33 cuda0] nomixup_seed2 epoch 1/5: train loss 0.183, train acc 0.939, val acc 0.8586 (43 s, 465 img/s)
+[17:16:16 cuda0] nomixup_seed2 epoch 2/5: train loss 0.167, train acc 0.944, val acc 0.8714 (43 s, 465 img/s)
+[17:16:59 cuda0] nomixup_seed2 epoch 3/5: train loss 0.138, train acc 0.956, val acc 0.8834 (43 s, 465 img/s)
+[17:17:42 cuda0] nomixup_seed2 epoch 4/5: train loss 0.116, train acc 0.964, val acc 0.8828 (43 s, 465 img/s)
+[17:18:25 cuda0] nomixup_seed2 epoch 5/5: train loss 0.102, train acc 0.971, val acc 0.8876 (43 s, 466 img/s)
+[17:20:04 cuda0] done nomixup_seed2 in 5.2 min

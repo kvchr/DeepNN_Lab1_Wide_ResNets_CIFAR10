@@ -1,0 +1,25 @@
+[17:02:24 cuda1] start base_seed0
+[17:03:59 cuda1] done base_seed0 in 1.6 min
+[17:03:59 cuda1] start mixup_seed0
+[17:04:44 cuda1] mixup_seed0 epoch 1/5: train loss 0.702, train acc 0.844, val acc 0.8598 (43 s, 466 img/s)
+[17:05:26 cuda1] mixup_seed0 epoch 2/5: train loss 0.648, train acc 0.848, val acc 0.8720 (42 s, 476 img/s)
+[17:06:08 cuda1] mixup_seed0 epoch 3/5: train loss 0.671, train acc 0.838, val acc 0.8794 (42 s, 475 img/s)
+[17:06:50 cuda1] mixup_seed0 epoch 4/5: train loss 0.667, train acc 0.839, val acc 0.8860 (42 s, 473 img/s)
+[17:07:32 cuda1] mixup_seed0 epoch 5/5: train loss 0.639, train acc 0.853, val acc 0.8838 (42 s, 472 img/s)
+[17:09:11 cuda1] done mixup_seed0 in 5.2 min
+[17:09:11 cuda1] start nomixup_seed1
+[17:09:54 cuda1] nomixup_seed1 epoch 1/5: train loss 0.198, train acc 0.934, val acc 0.8574 (42 s, 475 img/s)
+[17:10:36 cuda1] nomixup_seed1 epoch 2/5: train loss 0.179, train acc 0.942, val acc 0.8720 (42 s, 475 img/s)
+[17:11:18 cuda1] nomixup_seed1 epoch 3/5: train loss 0.155, train acc 0.948, val acc 0.8794 (42 s, 474 img/s)
+[17:12:00 cuda1] nomixup_seed1 epoch 4/5: train loss 0.125, train acc 0.960, val acc 0.8810 (42 s, 474 img/s)
+[17:12:42 cuda1] nomixup_seed1 epoch 5/5: train loss 0.113, train acc 0.966, val acc 0.8808 (42 s, 475 img/s)
+[17:14:21 cuda1] done nomixup_seed1 in 5.2 min
+[17:14:21 cuda1] start base_seed2
+[17:16:00 cuda1] done base_seed2 in 1.7 min
+[17:16:00 cuda1] start mixup_seed2
+[17:16:43 cuda1] mixup_seed2 epoch 1/5: train loss 0.682, train acc 0.851, val acc 0.8690 (42 s, 474 img/s)
+[17:17:26 cuda1] mixup_seed2 epoch 2/5: train loss 0.620, train acc 0.856, val acc 0.8768 (42 s, 473 img/s)
+[17:18:08 cuda1] mixup_seed2 epoch 3/5: train loss 0.664, train acc 0.844, val acc 0.8806 (42 s, 473 img/s)
+[17:18:50 cuda1] mixup_seed2 epoch 4/5: train loss 0.640, train acc 0.844, val acc 0.8846 (42 s, 474 img/s)
+[17:19:32 cuda1] mixup_seed2 epoch 5/5: train loss 0.613, train acc 0.865, val acc 0.8880 (42 s, 474 img/s)
+[17:21:11 cuda1] done mixup_seed2 in 5.2 min
